@@ -13,7 +13,4 @@ Steps for Malatria cell classification:
 7. layers such as CNN-Conv2D, MaxPooling2D, Dropout is used and then stacked layers are created
 8. Model training and validation
 9. Model testing and prediction of values.
-10. 
-11. 
-12. 
-13. 
+
