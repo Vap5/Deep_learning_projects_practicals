@@ -1,6 +1,6 @@
 # Deep_learning_projects_practicals
 
-Go to practical 4 in pynb file
+Go to **PRACTICAL 4** in pynb file
 The file contains many projects and practicals other than malaria cell classification 
 
 Steps for Malatria cell classification:
